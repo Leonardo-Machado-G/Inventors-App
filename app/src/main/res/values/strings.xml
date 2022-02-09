@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tarea_5</string>
+    <string name="inventor_name_1">Nikola Tesla</string>
+    <string name="inventor_description_1">Fue un inventor, ingeniero eléctrico y mecánico serbio nacionalizado estadounidense. Se le conoce sobre todo por sus numerosas invenciones en el campo del electromagnetismo, desarrolladas a finales del siglo XIX y principios del siglo XX.</string>
+    <string name="inventor_name_2">Arquímedes</string>
+    <string name="inventor_description_2">Fue un físico, ingeniero, inventor, astrónomo y matemático griego. Aunque se conocen pocos detalles de su vida, es considerado uno de los científicos más importantes de la Antigüedad.</string>
+    <string name="inventor_name_3">Benjamin Franklin</string>
+    <string name="inventor_description_3">" Fue embajador, escritor, impresor, jefe de correos, científico, uno de siete los padres fundadores de los Estados Unidos y firmantes de la declaración de independencia de Estados Unidos. Pero Franklin también fue un gran inventor, un innovador relevantes de las nuevas tecnologías de su tiempo."</string>
+    <string name="inventor_name_4">Thomas Alva Edison</string>
+    <string name="inventor_description_4">Fue un inventor y empresario estadounidense de los siglos XIX y XX conocido principalmente por, patentar más de 1093 inventos, mejorar la calidad de vida y la industria de su era a través de invenciones como la bombilla eléctrica de larga duración, el fonógrafo o el quinetoscopio entre otros.</string>
+    <string name="inventor_name_5">Leonardo da Vinci</string>
+    <string name="inventor_description_5">Fue un polímata florentino del Renacimiento italiano. Fue a la vez pintor, anatomista, arquitecto, paleontólogo,3​ artista, botánico, científico, escritor, escultor, filósofo, ingeniero, inventor, músico, poeta y urbanista.</string>
+    <string name="inventor_name_6">Alexander Graham Bell</string>
+    <string name="inventor_description_6">"Fue un inventor y logopeda de origen escocés. Contribuyó al campo de las telecomunicaciones al ser el primero que patentó un dispositivo para transmitir la voz humana a través de la corriente eléctrica. "</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
